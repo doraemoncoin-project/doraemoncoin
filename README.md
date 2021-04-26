@@ -4,7 +4,7 @@ Doraemoncoin integration/staging tree
 http://www.doraemoncoin.fun
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Doraemoncoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2021 Doraemoncoin Developer
 
 What is Doraemoncoin?
