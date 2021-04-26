@@ -1,0 +1,9 @@
+Building Doraemoncoin
+
+See doc/readme-qt.rst for instructions on building Doraemoncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Doraemoncoin.
+
+See doc/build-*.txt for instructions on building doraemoncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Doraemoncoin.
