@@ -1,25 +1,26 @@
 Doraemoncoin integration/staging tree
 ================================
 
-http://www.doraemoncoin.org
+http://www.doraemoncoin.fun
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Doraemoncoin Developers
+Copyright (c) 2021 Doraemoncoin Developer
 
 What is Doraemoncoin?
 ----------------
 
 Doraemoncoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 1 minute block targets
+ - subsidy halves in 800k blocks (~4 years)
+ - ~80 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 80 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Doraemoncoin client sofware, see http://www.doraemoncoin.org.
+the Doraemoncoin client sofware, see http://www.doraemoncoin.fun.
 
 License
 -------
