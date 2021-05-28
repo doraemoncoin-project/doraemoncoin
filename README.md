@@ -11,7 +11,7 @@ What is Doraemoncoin?
 ----------------
 
 Doraemoncoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 5 minute block targets
+ - 60 seconds block targets
  - subsidy halves in 800k blocks (~4 years)
  - ~80 million total coins
 
